@@ -30,6 +30,15 @@ TODO: write here
 Structure:
 ```text
 CS-122-Final-Project/
+├── docs/
+│   └── final_project_description.pdf
+├── data/
+│   ├── .gitkeep
+│   └── comparisons.csv
+├── outputs/
+│   ├── graphs/
+│   │   └── fuel_cost_comparison.png
+│   └── comparison_results.csv
 ├── README.md
 ├── .gitignore
 ├── LICENSE
@@ -38,10 +47,7 @@ CS-122-Final-Project/
 ├── main_window.py
 ├── data_collection.py
 ├── analysis.py
-├── results_window.py
-└── data/
-    ├── .gitkeep
-    └── comparisons.csv
+└── results_window.py
 ```
 
 Branches:
